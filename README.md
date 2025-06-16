@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tamashinosoru
-- 👀 I’m interested in games, reading, lifting and coding.
-- 🌱 I’m currently learning to develop my skills further as a software engineer.
+- 👋 Hi, I’m @ousmanjagana
+- 👀 I’m interested in games, reading, lifting, and coding.
+- 🌱 I’m currently learning to develop my skills further in the tech space.
 - 💞️ I’m looking to collaborate on any smaller project.
-- 📫 How to reach me ... shoot me a message on twitter (same name)
+- 📫 How to reach me ... jagana63@gmail.com
 
 <!---
 tamashinosoru/tamashinosoru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
